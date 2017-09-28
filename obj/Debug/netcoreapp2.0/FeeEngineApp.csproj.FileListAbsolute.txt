@@ -1,0 +1,11 @@
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.csprojResolveAssemblyReference.cache
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.csproj.CoreCompileInputs.cache
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.AssemblyInfoInputs.cache
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.AssemblyInfo.cs
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\bin\Debug\netcoreapp2.0\FeeEngineApp.deps.json
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\bin\Debug\netcoreapp2.0\FeeEngineApp.runtimeconfig.json
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\bin\Debug\netcoreapp2.0\FeeEngineApp.runtimeconfig.dev.json
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\bin\Debug\netcoreapp2.0\FeeEngineApp.dll
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\bin\Debug\netcoreapp2.0\FeeEngineApp.pdb
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.dll
+c:\users\qamarali\source\repos\FeeEngineApp\FeeEngineApp\obj\Debug\netcoreapp2.0\FeeEngineApp.pdb
